@@ -17,7 +17,6 @@ namespace Paragon.Functions
         private static readonly Dictionary<string, string> Resources = new Dictionary<string, string>()
         {
             { "announcements", "dailynews/list.json" },
-            { "calendar", "diarycalendar/events.json" },
             { "dailytimetable", "timetable/daytimetable.json" },
             { "timetable", "timetable/timetable.json" },
             { "userinfo", "details/userinfo.json" }
